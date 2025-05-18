@@ -8,7 +8,7 @@ Retail Sales Analysis – A data-driven exploration of sales performance, promot
 - [Retailsales Analysis Excel File](https://github.com/Tiyani-Baloyi-Analyst/Retail-Sales-Case-Study/blob/main/Project%20Files/Retailsales_Metrcis.csv) Results File- This file contains the table from SQL. This file was loaded on PowerBI for visualization.
 - [Retail Sales Dashboard](https://github.com/Tiyani-Baloyi-Analyst/Retail-Sales-Case-Study/blob/main/Project%20Files/Retailsales%20Dashboard.pbix) PowerBI File - Dashboard developed in PowerBI
 - [Complete SQL Code File](https://github.com/Tiyani-Baloyi-Analyst/Retail-Sales-Case-Study/blob/main/Project%20Files/Reatailsales%20Case%20Study.sql) Output Code - This is the full SQL code completed on Snowflake to address all the objectives of the exercise.
-- [Methodology File]([https://github.com/Tiyani-Baloyi-Analyst/Retail-Sales-Case-Study/blob/main/Project%20Files/Reatailsales%20Case%20Study.sql](https://github.com/Tiyani-Baloyi-Analyst/Retail-Sales-Case-Study/blob/main/Project%20Files/Restail%20Sales%20Case_Study%20Methodology.pdf) - Approach used to calculate the metrics.
+- [Methodology File](https://github.com/Tiyani-Baloyi-Analyst/Retail-Sales-Case-Study/blob/main/Project%20Files/Restail%20Sales%20Case_Study%20Methodology.pdf) - Approach used to calculate the metrics.
 
 ---
 
